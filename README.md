@@ -1,8 +1,8 @@
 Proyecto en Java que gestiona una base de datos de empleados utilizando JDBC y MySQL.
 Incluye operaciones CRUD (Crear, Leer, Actualizar, Eliminar) con conexión optimizada a la base de datos.
 
-🛠 Tecnologías usadas: Java, MySQL, JDBC
-📌 Funciones principales:
+Tecnologías usadas: Java, MySQL, JDBC
+Funciones principales:
 
 Gestión de empleados con operaciones CRUD.
 Conexión segura y optimizada con JDBC.
